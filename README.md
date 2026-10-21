@@ -1,18 +1,10 @@
 # Annie Zheng — Portfolio
 
-A static portfolio for financial reporting, inventory planning, channel economics and valuation research.
-
 Website: https://az-0713.github.io/
 
-## Publishing
-Upload the contents of this folder to the root of the `az-0713.github.io` repository. Keep `index.html`, the other HTML files, `assets/` and `downloads/` at the same level. Use Settings → Pages → Deploy from a branch → main → / (root).
+The site includes monthly P&L reporting, inventory and purchasing, marketplace commission analysis and company valuation reports. Restaurant files use example data for confidentiality. The project pages describe the original work separately from the illustrative figures.
 
-No build process, installation or API keys are required.
+## Updating the site
+Upload the contents of this folder to the main level of the GitHub repository. Keep index.html, assets/ and downloads/ alongside each other. Commit the changes, then wait for the Pages deployment to finish.
 
-## Content
-- Four project areas with context, contribution, methods and assumptions.
-- Nine downloadable work samples plus a combined work-samples archive.
-- Restaurant examples use fictional demonstration data.
-- Public-company reports include methodology and source notes.
-
-The public site contains no analytics, forms, sign-in or third-party scripts. Fonts use the visitor’s system fonts. Updating files in downloads/ and keeping their names preserves download links.
+No build process or installation is required.
